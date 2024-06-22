@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 # Función para crear el diagrama de barras
 def crear_diagrama_barras(marcas_clase, frecuencias, marcas_texto):
     plt.figure(figsize=(12, 6))
