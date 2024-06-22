@@ -15,5 +15,5 @@ def crear_grafico_pastel(datos, marcas_texto):
     plt.show()
 
 # Uso de la función
-datos = frecuencias_ordenadas
+datos = frecuencias
 marcas_texto = clases_ordenadas
